@@ -1,0 +1,19 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+header {
+  height: 5erm;
+  background-color: green;
+  display: flexbox;
+  justify-content: space-between;
+  text-align: center;
+}
+
+li a {
+  display: block;
+  text-align: center;
+  font-size: 1.8rem;
+}
